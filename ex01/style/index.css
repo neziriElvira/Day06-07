@@ -1,0 +1,36 @@
+body {
+    position: absolute;
+    max-width: 100%;
+    margin: auto;
+}
+body h1 {
+    position: relative;
+    margin-left: 60%;
+    margin-top: 20px;
+    color: red;
+}
+div.row {
+    position: relative;
+    width: 100%;
+    left: 20%;
+    background-color: rgb(255, 255, 255);
+    clear: left;
+}
+div.article {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+div.article p {
+    width: 280px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+img {
+    width: 300px;
+    height: 250px;
+}
